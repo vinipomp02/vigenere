@@ -1,0 +1,14 @@
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.exe
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.deps.json
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.runtimeconfig.json
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.dll
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.pdb
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.dll
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.pdb
+C:\Users\Vinicius\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.genruntimeconfig.cache
